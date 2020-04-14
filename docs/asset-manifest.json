@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Reactive-Miner/static/css/main.53661f26.chunk.css",
+    "main.js": "/Reactive-Miner/static/js/main.4887fa7e.chunk.js",
+    "main.js.map": "/Reactive-Miner/static/js/main.4887fa7e.chunk.js.map",
+    "runtime-main.js": "/Reactive-Miner/static/js/runtime-main.0a2f8687.js",
+    "runtime-main.js.map": "/Reactive-Miner/static/js/runtime-main.0a2f8687.js.map",
+    "static/js/2.7cc9a08b.chunk.js": "/Reactive-Miner/static/js/2.7cc9a08b.chunk.js",
+    "static/js/2.7cc9a08b.chunk.js.map": "/Reactive-Miner/static/js/2.7cc9a08b.chunk.js.map",
+    "index.html": "/Reactive-Miner/index.html",
+    "precache-manifest.a516092a5f2cfdebb3737680d3f1a7f9.js": "/Reactive-Miner/precache-manifest.a516092a5f2cfdebb3737680d3f1a7f9.js",
+    "service-worker.js": "/Reactive-Miner/service-worker.js",
+    "static/css/main.53661f26.chunk.css.map": "/Reactive-Miner/static/css/main.53661f26.chunk.css.map",
+    "static/js/2.7cc9a08b.chunk.js.LICENSE.txt": "/Reactive-Miner/static/js/2.7cc9a08b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a2f8687.js",
+    "static/js/2.7cc9a08b.chunk.js",
+    "static/css/main.53661f26.chunk.css",
+    "static/js/main.4887fa7e.chunk.js"
+  ]
+}
