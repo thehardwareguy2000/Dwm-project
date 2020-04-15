@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Dwm-project/static/css/main.53661f26.chunk.css",
-    "main.js": "/Dwm-project/static/js/main.e9d129a8.chunk.js",
-    "main.js.map": "/Dwm-project/static/js/main.e9d129a8.chunk.js.map",
+    "main.js": "/Dwm-project/static/js/main.1f7b0d57.chunk.js",
+    "main.js.map": "/Dwm-project/static/js/main.1f7b0d57.chunk.js.map",
     "runtime-main.js": "/Dwm-project/static/js/runtime-main.40d73157.js",
     "runtime-main.js.map": "/Dwm-project/static/js/runtime-main.40d73157.js.map",
-    "static/js/2.07276fa0.chunk.js": "/Dwm-project/static/js/2.07276fa0.chunk.js",
-    "static/js/2.07276fa0.chunk.js.map": "/Dwm-project/static/js/2.07276fa0.chunk.js.map",
+    "static/js/2.a0d4ab4f.chunk.js": "/Dwm-project/static/js/2.a0d4ab4f.chunk.js",
+    "static/js/2.a0d4ab4f.chunk.js.map": "/Dwm-project/static/js/2.a0d4ab4f.chunk.js.map",
     "index.html": "/Dwm-project/index.html",
-    "precache-manifest.31cb072f22855ff5885cbc754db296a8.js": "/Dwm-project/precache-manifest.31cb072f22855ff5885cbc754db296a8.js",
+    "precache-manifest.9a1ee522974a792fa6de704b18011b70.js": "/Dwm-project/precache-manifest.9a1ee522974a792fa6de704b18011b70.js",
     "service-worker.js": "/Dwm-project/service-worker.js",
     "static/css/main.53661f26.chunk.css.map": "/Dwm-project/static/css/main.53661f26.chunk.css.map",
-    "static/js/2.07276fa0.chunk.js.LICENSE.txt": "/Dwm-project/static/js/2.07276fa0.chunk.js.LICENSE.txt"
+    "static/js/2.a0d4ab4f.chunk.js.LICENSE.txt": "/Dwm-project/static/js/2.a0d4ab4f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.40d73157.js",
-    "static/js/2.07276fa0.chunk.js",
+    "static/js/2.a0d4ab4f.chunk.js",
     "static/css/main.53661f26.chunk.css",
-    "static/js/main.e9d129a8.chunk.js"
+    "static/js/main.1f7b0d57.chunk.js"
   ]
 }
